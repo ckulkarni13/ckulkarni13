@@ -1,79 +1,15 @@
-# 👋 Hi, I'm Chinmay Kulkarni
+# 💫 About Me:
+# 👋 Hi, I'm Chinmay Kulkarni<br><br>🎯 Data Scientist | AI/ML Engineer  <br>🧠 Building end-to-end ML systems, NLP solutions & predictive models  <br>🎓 MS in Computer Software Engineering (Data Science) @ Northeastern University  <br><br>---<br><br>## 🚀 About Me<br><br>I’m a graduate student passionate about applying machine learning and data science to solve real-world problems.  <br>I enjoy working across the full ML lifecycle — from data collection and feature engineering to model development, evaluation, and deployment.<br><br>I’m actively seeking **Data Scientist**, **Machine Learning Engineer**, and **AI Engineer** roles.<br><br>---<br><br>## 🛠️ Technical Skills<br><br>**Languages:** Python, SQL, R  <br>**ML / DL:** Scikit-learn, PyTorch, TensorFlow  <br>**Data:** Pandas, NumPy, Matplotlib, Seaborn  <br>**NLP:** NLTK, SpaCy, HuggingFace  <br>**Big Data:** Spark, Hadoop  <br>**Cloud:** AWS  <br>**Tools:** Git, Docker, Jupyter Notebook  <br><br>---<br><br>## ⭐ Featured Projects<br><br>### 🔹 Resume–Job Matching System (NLP)<br>- Built an NLP pipeline to match resumes with job descriptions using embeddings and similarity scoring  <br>- Implemented preprocessing, vectorization, and ranking models  <br>- Achieved strong relevance performance on sample datasets  <br><br>### 🔹 Customer Churn Prediction<br>- Developed classification models to predict customer churn  <br>- Performed EDA, feature engineering, and model tuning  <br>- Improved recall using class imbalance techniques  <br><br>### 🔹 Recommendation System<br>- Built collaborative filtering & content-based recommenders  <br>- Evaluated with precision@k and recall@k  <br><br>➡️ Explore more in my repositories!<br><br>---<br><br>## 📈 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckulkarni13&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckulkarni13&layout=compact&theme=tokyonight)<br><br>---<br><br>## 📫 Let's Connect<br><br>- LinkedIn: https://www.linkedin.com/<br>- Email: yourname@email.com<br><br>---<br><br>⭐ If you find my projects interesting, feel free to star and connect!<br>
 
-🎯 Data Scientist | AI/ML Engineer  
-🧠 Building end-to-end ML systems, NLP solutions & predictive models  
-🎓 MS in Computer Software Engineering (Data Science) @ Northeastern University  
 
----
-
-## 🚀 About Me
-
-I’m a graduate student passionate about applying machine learning and data science to solve real-world problems.  
-I enjoy working across the full ML lifecycle — from data collection and feature engineering to model development, evaluation, and deployment.
-
-I’m actively seeking **Data Scientist**, **Machine Learning Engineer**, and **AI Engineer** roles.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ckulkarni13&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ckulkarni13&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ckulkarni13&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ckulkarni13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-**Languages:** Python, SQL, R  
-**ML / DL:** Scikit-learn, PyTorch, TensorFlow  
-**Data:** Pandas, NumPy, Matplotlib, Seaborn  
-**NLP:** NLTK, SpaCy, HuggingFace  
-**Big Data:** Spark, Hadoop  
-**Cloud:** AWS  
-**Tools:** Git, Docker, Jupyter Notebook  
-
----
-
-## ⭐ Featured Projects
-
-### 🔹 Resume–Job Matching System (NLP)
-- Built an NLP pipeline to match resumes with job descriptions using embeddings and similarity scoring  
-- Implemented preprocessing, vectorization, and ranking models  
-- Achieved strong relevance performance on sample datasets  
-
-### 🔹 Customer Churn Prediction
-- Developed classification models to predict customer churn  
-- Performed EDA, feature engineering, and model tuning  
-- Improved recall using class imbalance techniques  
-
-### 🔹 Recommendation System
-- Built collaborative filtering & content-based recommenders  
-- Evaluated with precision@k and recall@k  
-
-➡️ Explore more in my repositories!
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckulkarni13&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckulkarni13&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/
-- Email: yourname@email.com
-
----
-
-⭐ If you find my projects interesting, feel free to star and connect!
-<!--
-**ckulkarni13/ckulkarni13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
